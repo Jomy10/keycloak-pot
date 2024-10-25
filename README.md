@@ -5,7 +5,7 @@ that will run keycloak on FreeBSD.
 
 ## Usage
 
-- You need a Postgres database. You can get one as a pot as well!
+- You need a Postgres database. [You can get one as a pot as well](https://github.com/jomy10/postgres-pot)!
 ```sh
 git clone https://github.com/jomy10/postgres-pot
 cd postgres-pot
